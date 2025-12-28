@@ -10,3 +10,24 @@ I’m **Vanshika**, a **B.Tech Computer Engineering (Data Science)** student wit
 - 📫 How to reach me: *EMAIL: goelvanshika0204@gmail.com*
 - ⚡ Fun fact: I enjoy turning **manual processes into automated systems**
 
+### 🛠️ Tech Stack
+Python | Pandas | SQL | Machine Learning | n8n | Google Sheets | APIs | Git
+
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#d9b0ce', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#ffffff', 'lineColor':'#ffffff', 'secondaryColor':'#9f97c4', 'secondaryTextColor':'#ffffff', 'tertiaryColor':'#999976', 'tertiaryTextColor':'#ffffff', 'textColor':'#ffffff', 'nodeTextColor':'#ffffff', 'mainBkg':'#6366f1', 'fontSize':'16px', 'fontFamily':'Arial'}}}%%
+mindmap
+  root(Vanshika's Journey))
+    [Data Science]
+      Exploratory Data Analysis (EDA)
+      Data Cleaning & Feature Engineering
+      Customer Segmentation & Behavioral Analysis
+      Data Visualization for Business Insights
+    [Machine Learning Foundations]
+      Supervised & Unsupervised Learning
+      Clustering Techniques 
+      Model Evaluation & Interpretation
+    [Generative AI & LLMs]
+      Workflow Automation using n8n
+      API-driven AI Integrations
+      Context-aware Content Generation
+      AI-assisted Productivity Systems
+      AI Content Generation Pipelines
