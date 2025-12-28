@@ -1,6 +1,5 @@
 ## Hi there welcome to my GitHub!👋
 
-<!--
 I’m **Vanshika**, a **B.Tech Computer Engineering (Data Science)** student with a strong interest in **data analytics, AI-driven automation, and problem-solving**.
 
 - 🔍 Exploring **Data Science, Machine Learning, and AI Automation**
