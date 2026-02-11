@@ -5,9 +5,9 @@
 
 🎓 B.Tech Computer Engineering (Data Science)  
 🏫 NMIMS Chandigarh  
-🤖 Passionate about AI-driven systems & real-world ML applications   
+🤖 Passionate about AI-driven systems & real-world ML applications  
 
-#💻 I build structured, production-oriented AI systems focused on:
+##💻 I build structured, production-oriented AI systems focused on:
 
 🛡 Retrieval-Augmented Generation (RAG) Auditing
 
@@ -28,8 +28,12 @@
 
 📊 Visualization & Deployment  
 
-## 📈 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vanshikagoel02&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikagoel02&layout=compact&theme=tokyonight" height="170"/> </p>  
+## 📈 GitHub Analytics 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshikagoel02&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikagoel02&layout=compact&theme=tokyonight&cache_seconds=1800" height="170"/>
+</p>
+  
 
 ## 📊 Contribution Streak
 <p align="center"> <img src="https://streak-stats.demolab.com?user=vanshikagoel02&theme=tokyonight&hide_border=false" /> </p>  
