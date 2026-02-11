@@ -1,12 +1,13 @@
 # 👩‍💻 Vanshika | AI & Data Science Enthusiast
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Engineering+(Data+Science);AI+%7C+Machine+Learning+%7C+Analytics;Building+Intelligent+Systems;Turning+Data+Into+Impact" /> </p>
-## 🚀 About Me
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Engineering+(Data+Science);AI+%7C+Machine+Learning+%7C+Analytics;Building+Intelligent+Systems;Turning+Data+Into+Impact" /> </p>  
+
+## 🚀 About Me  
 
 🎓 B.Tech Computer Engineering (Data Science)
 🏫 NMIMS Chandigarh
-🤖 Passionate about AI-driven systems & real-world ML applications
+🤖 Passionate about AI-driven systems & real-world ML applications  
 
-I build structured, production-oriented AI systems focused on:
+# I build structured, production-oriented AI systems focused on:
 
 🛡 Retrieval-Augmented Generation (RAG) Auditing
 
@@ -18,7 +19,7 @@ I build structured, production-oriented AI systems focused on:
 
 🏫 Smart Infrastructure Systems
 
-I aim to bridge AI research concepts with practical, deployable systems.
+*I aim to bridge AI research concepts with practical, deployable systems.*
 
 ## 🧠 Core Expertise
 💻 Programming  
@@ -35,21 +36,20 @@ I aim to bridge AI research concepts with practical, deployable systems.
 
 ## 🎯 Career Focus
 
-Seeking internships and entry-level roles in:
+- Seeking internships and entry-level roles in:
 
-Machine Learning Engineering
+- Machine Learning Engineering
 
-Data Science
+- Data Science
 
-AI Product Development
+- AI Product Development
 
-Business Intelligence
+- Business Intelligence
 
-Applied AI Systems
+- Applied AI Systems
 
-I focus on building internship-ready, scalable projects rather than purely academic submissions.  
+*I focus on building internship-ready, scalable projects rather than purely academic submissions.*  
 
 ## ⚡ Personal Motto
-
 “Build structured systems. Measure everything. Explain clearly. Improve continuously.”
 
