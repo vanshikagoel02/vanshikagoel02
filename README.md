@@ -3,11 +3,11 @@
 
 ## 🚀 About Me  
 
-🎓 B.Tech Computer Engineering (Data Science)
-🏫 NMIMS Chandigarh
-🤖 Passionate about AI-driven systems & real-world ML applications  
+🎓 B.Tech Computer Engineering (Data Science)  
+🏫 NMIMS Chandigarh  
+🤖 Passionate about AI-driven systems & real-world ML applications   
 
-# I build structured, production-oriented AI systems focused on:
+#💻 I build structured, production-oriented AI systems focused on:
 
 🛡 Retrieval-Augmented Generation (RAG) Auditing
 
@@ -19,7 +19,7 @@
 
 🏫 Smart Infrastructure Systems
 
-*I aim to bridge AI research concepts with practical, deployable systems.*
+**I aim to bridge AI research concepts with practical, deployable systems.**
 
 ## 🧠 Core Expertise
 💻 Programming  
@@ -36,7 +36,7 @@
 
 ## 🎯 Career Focus
 
-- Seeking internships and entry-level roles in:
+Seeking internships and entry-level roles in:
 
 - Machine Learning Engineering
 
@@ -48,7 +48,7 @@
 
 - Applied AI Systems
 
-*I focus on building internship-ready, scalable projects rather than purely academic submissions.*  
+**I focus on building internship-ready, scalable projects rather than purely academic submissions.**  
 
 ## ⚡ Personal Motto
 “Build structured systems. Measure everything. Explain clearly. Improve continuously.”
